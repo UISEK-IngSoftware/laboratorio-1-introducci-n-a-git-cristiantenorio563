@@ -14,10 +14,10 @@ IMPORTANTE: Leer detenidamente las instrucciones del laboratorio.
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo:** [Escribe tu nombre completo aquí]
-- **Número de estudiante:** [Tu número/código de estudiante]
-- **Carrera:** [Tu carrera/programa académico]
-- **Fecha de inicio:** [Fecha en que comenzaste el laboratorio]
+- **Nombre completo:** Cristian Alfredo Tenorio De La Cruz
+- **Número de estudiante:** N/A
+- **Carrera:** Ing. Informática
+- **Fecha de inicio:** 14/4/2026
 
 > **📋 Instrucción**: Edita este archivo README.md y completa tu información personal arriba. Esto debe ser tu **primer commit** del laboratorio.
 
